@@ -1,0 +1,1 @@
+alert("Please Open this website in mobile desktop version! 😅😅")

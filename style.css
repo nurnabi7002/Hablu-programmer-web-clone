@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  background-color: rgb(2, 6, 23);
+}
+
+
+.navdiv {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  background: transparent;
+  border-bottom: 1px solid cornsilk;
+  position: fixed;
+  backdrop-filter: blur(10px)
+  
+  
+}
+
+.ndl {
+  height: 70px;
+  width: 70%;
+  
+  
+}
+
+#logo {
+  height: 70px;
+  margin-left: 25px;
+  
+}
+
+.ndr {
+  height: 70px;
+  width: 35%;
+  display: flex;
+  align-items: center;
+  color: white ;
+}
+
+.nb {
+  border: none;
+  background: transparent;
+  color: white;
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+#login {
+  border: 1px solid #4d4c4d;
+  margin-left: 20px;
+  background: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 40px;
+  font-size: 20px;
+  
+}
+
+#his {
+  margin-top: 300px;
+}
+
+#hh1 {
+  color: white;
+  margin-left: 40px;
+  font-size: 50px;
+}
+
+#clrt {
+  background: linear-gradient(to right, #00bfff, #00ff00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0.9;
+}
+
+#p1 {
+  color: white;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+#vc {
+  margin-left: 40px;
+  margin-top: 40px;
+  padding: 15px;
+  border: none;
+  background-color: rgb(0, 111, 237);
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+#head2 {
+  color: white;
+  margin-left: 40px;
+  font-size: 40px;
+}
+
+
+.h2d {
+  display: flex;
+  justify-content: center;
+}
+
+
+.mdiv {
+  height: 4000px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-image: url("hero2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#s2 {
+  background: linear-gradient(to right, #00bfff, #00ff00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0.9;
+}
+
+.footer {
+  height: 600px;
+  width: 100%;
+  border-top: 1px solid cornsilk;
+  color: white;
+  
+  
+}
+
+h3 {
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.f {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 25px;
+  margin-top: 20px;
+  color: white;
+}
+
+
+.fl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
